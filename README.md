@@ -1,4 +1,4 @@
-# ASTROIDS with PYGAME Zero
+# ASTEROIDS with PYGAME Zero
 
 To start launch main.py
 
